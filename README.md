@@ -5,11 +5,19 @@
 
 아래에서 소개할 코드들은 <https://www.data.go.kr/> : [공공데이터 포털](https://www.data.go.kr/) 중 서울특별시_버스 위치 정보 조회 서비스 예제 코드를 참조했습니다.
 
-<img src="https://img.shields.io/badge/Node.js-green?logo=Node.js&logoColor=black" alt="image" width="200" height="50"/>                     v20.9.0
+----
+<img src="https://img.shields.io/badge/Node.js-green?logo=Node.js&logoColor=black" alt="image" width="230" height="50"/>                     
 
-<img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=purple" alt="image2" width="200" height="50"/>         v1.84.2
+v20.9.0
+
+
+<img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=purple" alt="image2" width="230" height="50"/>         
+
+v1.84.2
         
+---
 
+## Node.Js Code
 
 ### <index.js>
 ```
@@ -46,7 +54,7 @@ app.get('/getBusApi', function (req, res) {
 });
 ```
 
-
+## HTML CODE
 ### <index.html>
 ```
 <!DOCTYPE html>
