@@ -16,7 +16,11 @@ v20.9.0
 v1.84.2
         
 ---
+## API를 로컬 웹 서버에서 실행 시 결과
+---
+![스크린샷 2023-11-19 180250](https://github.com/dude1599/APPlication_by_Seoul-Bus-location-API/assets/133233495/139bde92-ee63-4fa6-99d0-11b80d328cb1)
 
+---
 ## Node.Js Code
 
 ### <index.js>
