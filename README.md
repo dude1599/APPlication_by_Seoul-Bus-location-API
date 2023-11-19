@@ -14,9 +14,21 @@ v20.9.0
 <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=purple" alt="image2" width="230" height="50"/>         
 
 v1.84.2
+
+
+---
+## Description
+이 Repository는 공공 데이터 포털 중 서울특별시_버스 위치 정보 조회 서비스 API를 이용해 웹서버에 API 호출 결과를 띄우는 코드에 대한 설명입니다.
+
+먼저 Node.js를 VSCODE와 함께 사용하였고, Node.js는 위에서 언급한 공공데이터포털에 올라와있는 예제 코드를 참고하였습니다.
+
+HTML 코드는 기존에 API 호출 결과만 나오던 것을 로컬 웹 서버에 접속할 시, 프로젝트 이름과 API 호출 결과를 불러오는 'Get Bus information' 버튼을 추가하여, 직관적으로 알 수 있게 했습니다.
+
+또한, API 호출 결과를 볼 때 태그가 영어로 되어있어, 어떤 결과값을 나타내는지 정확히 모를 수 있기에, 알아보는데 꼭 필요하다고 생각되는
+태그에 대한 설명을 문자열로 추가하였습니다.
         
 ---
-## API를 로컬 웹 서버에서 실행 시 결과
+## API를 로컬 웹 서버에서 실행 시 결과 (최종 결과)
 ---
 ![스크린샷 2023-11-19 180250](https://github.com/dude1599/APPlication_by_Seoul-Bus-location-API/assets/133233495/139bde92-ee63-4fa6-99d0-11b80d328cb1)
 
