@@ -5,7 +5,8 @@
 
 아래에서 소개할 코드들은 <https://www.data.go.kr/> : [공공데이터 포털](https://www.data.go.kr/) 중 서울특별시_버스 위치 정보 조회 서비스 예제 코드를 참조했습니다.
 
-![image](https://github.com/dude1599/APPlication_by_Seoul-Bus-location-API/assets/133233495/0f0d6d44-6acd-47b2-92ae-b38a918f0a48)
+<img src="https://github.com/dude1599/APPlication_by_Seoul-Bus-location-API/assets/133233495/0f0d6d44-6acd-47b2-92ae-b38a918f0a48" alt="image" width="150" height="50"/>
+
 
 
 
